@@ -1,0 +1,8 @@
+.env
+rustfs-data/
+rustfs-logs/
+local-store/
+*.ducklake
+*.duckdb
+metadata.ducklake*
+__pycache__/
